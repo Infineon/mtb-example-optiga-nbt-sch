@@ -1,0 +1,19 @@
+# Documentation
+images
+
+# Exports, Project settings
+.mtbLaunchConfigs
+.settings
+.vscode
+
+# MbedTLS
+$(SEARCH_mbedtls)/3rdparty
+$(SEARCH_mbedtls)/ChangeLog.d
+$(SEARCH_mbedtls)/cmake
+$(SEARCH_mbedtls)/docs
+$(SEARCH_mbedtls)/doxygen
+$(SEARCH_mbedtls)/configs
+$(SEARCH_mbedtls)/programs
+$(SEARCH_mbedtls)/scripts
+$(SEARCH_mbedtls)/tests
+$(SEARCH_mbedtls)/visualc
