@@ -21,7 +21,7 @@
 #define LOG_TAG "Storage"
 
 /**
- * \brief Handle to PSoC flash for persistent credentials storage.
+ * \brief Handle to PSOC flash for persistent credentials storage.
  */
 static cyhal_flash_t flash;
 
